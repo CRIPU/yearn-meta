@@ -37,7 +37,7 @@
       "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains EURS and synthetic euro (sEUR) minted on the Synthetix platform."
     },
     "ja": {
-      "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains EURS and synthetic euro (sEUR) minted on the Synthetix platform."
+      "説明": "このトークンはCurveの流動性プールを表しています。保有者はプールで取引するユーザーの手数料を稼ぐことができ、また、LPをCurveのゲージに入金して排出されるCRVを稼ぐこともできます。このプールにはSynthetixプラットフォームでミントされたEURSと合成ユーロ(sEUR)が含まれています。"
     },
     "id": {
       "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains EURS and synthetic euro (sEUR) minted on the Synthetix platform."
