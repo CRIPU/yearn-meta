@@ -37,7 +37,7 @@
       "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains DAI, USDC, USDT, and BUSD that are lent out to various decentralized money markets on Ethereum."
     },
     "ja": {
-      "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains DAI, USDC, USDT, and BUSD that are lent out to various decentralized money markets on Ethereum."
+      "説明": "このトークンはCurveの流動性プールを表しています。保有者はプールで取引するユーザーの手数料を稼ぐことができ、また、LPをCurveのゲージに入金して排出されるCRVを稼ぐこともできます。このプールにはイーサリアム上のさまざまな分散型マネーマーケットに貸し出されているDAI、USDC、USDT、BUSDが含まれます。"
     },
     "id": {
       "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains DAI, USDC, USDT, and BUSD that are lent out to various decentralized money markets on Ethereum."
