@@ -37,7 +37,7 @@
       "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This crypto pool contains both Stasis Euro (EURS) and USDC. Please be aware that as crypto pools are composed of differently-priced assets, they are subject to impermanent loss."
     },
     "ja": {
-      "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This crypto pool contains both Stasis Euro (EURS) and USDC. Please be aware that as crypto pools are composed of differently-priced assets, they are subject to impermanent loss."
+      "説明": "このトークンはCurveの流動性プールを表しています。保有者はプールで取引するユーザーの手数料を稼ぐことができ、また、LPをCurveのゲージに入金して排出されるCRVを稼ぐこともできます。このプールは合成ユーロ(EURS)とUSDCを含みます。クリプトプールは価格の異なる資産で構成されているため、インパーマネントロスが発生する可能性があることをご承知おきください。"
     },
     "id": {
       "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This crypto pool contains both Stasis Euro (EURS) and USDC. Please be aware that as crypto pools are composed of differently-priced assets, they are subject to impermanent loss."
