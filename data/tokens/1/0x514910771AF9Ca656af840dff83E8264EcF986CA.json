@@ -35,7 +35,7 @@
       "description": "Through a decentralized oracle network, Chainlink allows blockchains to securely interact with external data feeds, events and payment methods, providing the critical off-chain information needed by complex smart contracts to become the dominant form of digital agreement. The Chainlink Network is driven by a large open-source community of data providers, node operators, smart contract developers, researchers, security auditors and more."
     },
     "ja": {
-      "description": "Through a decentralized oracle network, Chainlink allows blockchains to securely interact with external data feeds, events and payment methods, providing the critical off-chain information needed by complex smart contracts to become the dominant form of digital agreement. The Chainlink Network is driven by a large open-source community of data providers, node operators, smart contract developers, researchers, security auditors and more."
+      "説明": "Chainlinkは分散型、分散型オラクルネットワークを通じ、ブロックチェーンが外部のデータフィード、イベント、支払いを安全にやり取りできるようにし、デジタル契約の主流となる複雑なスマートコントラクトが必要とする重要なオフチェーン情報を提供します。Chainlinkネットワークは、データプロバイダー、ノードオペレーター、スマートコントラクト開発者、研究者、セキュリティ監査人などによる大規模なオープンソースコミュニティによって運営されています。"
     },
     "id": {
       "description": "Through a decentralized oracle network, Chainlink allows blockchains to securely interact with external data feeds, events and payment methods, providing the critical off-chain information needed by complex smart contracts to become the dominant form of digital agreement. The Chainlink Network is driven by a large open-source community of data providers, node operators, smart contract developers, researchers, security auditors and more."
