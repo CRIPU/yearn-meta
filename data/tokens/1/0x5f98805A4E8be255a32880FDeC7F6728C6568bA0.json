@@ -37,7 +37,7 @@
       "description": "Liquity is a decentralized borrowing protocol that allows you to borrow LUSD (a USD pegged stablecoin) interest free using Ether as collateral. The loans are secured by a Stability Pool containing LUSD and by borrowers collectively acting as guarantors of last resort."
     },
     "ja": {
-      "description": "Liquity is a decentralized borrowing protocol that allows you to borrow LUSD (a USD pegged stablecoin) interest free using Ether as collateral. The loans are secured by a Stability Pool containing LUSD and by borrowers collectively acting as guarantors of last resort."
+      "説明": "Liquity は分散型の借入プロトコルであり、Ether を担保に LUSD (USD ペッグされたステーブルコイン) を無利子で借入することができます。融資は、LUSDを含むスタビリティプールと、最後の保証人となる借り手によってまとめて担保されます。"
     },
     "id": {
       "description": "Liquity is a decentralized borrowing protocol that allows you to borrow LUSD (a USD pegged stablecoin) interest free using Ether as collateral. The loans are secured by a Stability Pool containing LUSD and by borrowers collectively acting as guarantors of last resort."
